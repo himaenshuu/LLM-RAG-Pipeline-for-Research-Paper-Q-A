@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+guide.txt
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Qdrant/Chroma local DBs (if any)
+chroma_db/
+chroma_langchain_db/
+
+# PDF or data files (optional, if large or sensitive)
+
